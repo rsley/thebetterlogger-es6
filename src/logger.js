@@ -1,7 +1,7 @@
 // Imports \\
 import fs from "fs";
 import moment from "moment-timezone";
-import colors from "colors/safe";
+import colors from "colors/safe.js";
 
 // Functions \\
 function removeANSI(logLine) {

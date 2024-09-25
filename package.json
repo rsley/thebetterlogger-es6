@@ -1,6 +1,6 @@
 {
   "name": "thebetterlogger-es6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "src/index.js",
   "repository": "https://github.com/rsley/thebetterlogger",
