@@ -1,0 +1,14 @@
+{
+  "name": "thebetterlogger-es6",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "repository": "https://github.com/rsley/thebetterlogger",
+  "author": "Rafael Soley R. <110256307+rsley@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord-webhook-node": "^1.1.8",
+    "moment-timezone": "^0.5.45"
+  }
+}
